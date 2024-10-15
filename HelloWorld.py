@@ -1,1 +1,1 @@
-print ("ET0735 - DevOps for AIoT test")
+print ("ET0735 - DevOps for AIoT test dog")
